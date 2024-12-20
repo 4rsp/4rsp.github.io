@@ -5,107 +5,136 @@
     box-sizing: border-box;
 }
 
+/* Body and Font Setup */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f8f9fa;
-    color: #333;
+    background-color: #121212;
+    color: #eaeaea;
+    line-height: 1.6;
+    display: flex;
 }
 
-.container {
-    text-align: center;
-    padding: 20px;
-}
-
-header {
-    background-color: #ff66b2;
-    color: white;
-    padding: 20px;
-}
-
-h1 {
-    font-size: 3rem;
-    font-weight: 600;
-}
-
-p {
-    font-size: 1.2rem;
-}
-
+/* Sidebar Styles */
 .sidebar {
     position: fixed;
-    left: 0;
     top: 0;
-    width: 200px;
-    background-color: #ff66b2;
+    left: 0;
+    width: 250px;
     height: 100%;
+    background-color: #1f1f1f;
+    padding: 20px;
+    color: #fff;
+}
+
+.sidebar .sidebar-content {
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    padding: 20px;
 }
 
 .anime-image {
     width: 150px;
     height: auto;
-    border-radius: 10px;
+    border-radius: 50%;
     margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #f0f0f0;
 }
 
 .sidebar ul {
     list-style: none;
+    width: 100%;
 }
 
 .sidebar ul li {
-    margin: 15px 0;
+    margin: 10px 0;
 }
 
 .sidebar ul li a {
     text-decoration: none;
-    color: white;
+    color: #f0f0f0;
     font-size: 1.2rem;
-    font-weight: 600;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    transition: background-color 0.3s ease;
 }
 
 .sidebar ul li a:hover {
-    color: #ffccff;
+    background-color: #333;
+    border-radius: 5px;
 }
 
-main {
-    margin-left: 220px;
+/* Main Content Styles */
+.main-content {
+    margin-left: 250px;
     padding: 20px;
+    width: 100%;
 }
 
-.writeup {
-    background-color: #ffffff;
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 3rem;
+    color: #ff66b2;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+.writeups {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.writeup-card {
+    background-color: #1a1a1a;
+    border-radius: 8px;
     padding: 20px;
-    border-radius: 10px;
-    margin: 20px 0;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
 }
 
-.writeup h3 {
+.writeup-card:hover {
+    transform: scale(1.05);
+}
+
+.writeup-card h3 {
     font-size: 1.8rem;
     color: #ff66b2;
 }
 
-.writeup p {
+.writeup-card p {
     font-size: 1.1rem;
 }
 
-a {
+.writeup-card a {
     color: #ff66b2;
     text-decoration: none;
 }
 
-a:hover {
-    color: #cc3399;
+.writeup-card a:hover {
+    color: #e082bb;
 }
 
+/* Footer Styles */
 footer {
+    background-color: #1f1f1f;
+    color: #f0f0f0;
     text-align: center;
-    background-color: #ff66b2;
-    color: white;
     padding: 20px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
     font-size: 1rem;
 }
