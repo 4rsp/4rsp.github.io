@@ -1,0 +1,111 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background-color: #ff66b2;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 200px;
+    background-color: #ff66b2;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.anime-image {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.sidebar ul {
+    list-style: none;
+}
+
+.sidebar ul li {
+    margin: 15px 0;
+}
+
+.sidebar ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.sidebar ul li a:hover {
+    color: #ffccff;
+}
+
+main {
+    margin-left: 220px;
+    padding: 20px;
+}
+
+.writeup {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.writeup h3 {
+    font-size: 1.8rem;
+    color: #ff66b2;
+}
+
+.writeup p {
+    font-size: 1.1rem;
+}
+
+a {
+    color: #ff66b2;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cc3399;
+}
+
+footer {
+    text-align: center;
+    background-color: #ff66b2;
+    color: white;
+    padding: 20px;
+    font-size: 1rem;
+}
