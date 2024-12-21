@@ -141,6 +141,4 @@ emergency_meeting(binsh, payload, 1)
 
 p.interactive()
 ```
-<p align="center">
-<img src=https://media1.tenor.com/m/-POqhuRZuEUAAAAd/easy-mode-shinoa-shinoa.gif>
-</p>
+![yay](https://tokyoking.github.io/assets/gifs/easy.gif)
