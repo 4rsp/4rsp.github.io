@@ -37,18 +37,8 @@ Learning by reading other's writeups and practising with my own words. This is w
 ### Buffer overflow
 *   [Brute-forcing a fork() process into leaking canary](/ctfwriteups/buffer_overflow/UTCCTF24/README.md)
 
-* * *
 
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
+* * * 
 
 ![yo](https://tokyoking.github.io/assets/images/tokyoking.png)
 
-
-```
-whoami
-```
