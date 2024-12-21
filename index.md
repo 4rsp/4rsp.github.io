@@ -6,7 +6,7 @@ layout: default
 
 # CTF Writeups
 
-> Not ready currently...
+> SOON^^
 
 
 # Others
