@@ -2,7 +2,6 @@
 layout: default
 ---
 
-![](https://github.com/tokyoking/tokyoking.github.io/blob/main/assets/images/tokyoking.png)
 
 ###### newbie pwner ^-^
 
@@ -47,7 +46,7 @@ Learning by reading other's writeups and practising with my own words. This is w
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![](https://github.com/tokyoking/tokyoking.github.io/blob/main/assets/images/tokyoking.png)
 
 
 
