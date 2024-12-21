@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![](https://github.com/tokyoking/tokyoking.github.io/blob/main/assets/images/tokyoking.png)
+
 ###### newbie pwner ^-^
 
 # CTF Writeups
