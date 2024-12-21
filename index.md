@@ -37,6 +37,10 @@ Learning by reading other's writeups and practising with my own words. This is w
 
 * * *
 
+# Trophies
+
+> nothing... *yet*
+
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
