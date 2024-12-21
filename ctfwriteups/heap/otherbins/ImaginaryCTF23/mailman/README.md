@@ -3,7 +3,7 @@
 ### Challenge
 
 
-TLDR: leak a mangled heap ptr (UAF) and libc address from unsorted bin, then perform a House of Botcake attack to get read-what-where. Use this to get a stack leak via FSOP on stdout. Perform House of Botcake again to ROP from saved_rip of fgets(). Use the gadgets in libc to write out the flag to stdout with ORW syscalls.
+**TLDR:** Leak a mangled heap ptr (UAF) and libc address from unsorted bin, then perform a House of Botcake attack to get read-what-where. Use this to get a stack leak via FSOP on stdout. Perform House of Botcake again to ROP from saved_rip of fgets(). Use the gadgets in libc to write out the flag to stdout with ORW syscalls.
 
 ```
 Welcome to the post office.
@@ -26,7 +26,7 @@ seccomp_rule_add(local_20, 0x7fff0000,0x3c,0);
 seccomp_loead(local_20);
 ```
 
-## Approach
+### Approach
 
 ```
     RELRO:      Full RELRO
