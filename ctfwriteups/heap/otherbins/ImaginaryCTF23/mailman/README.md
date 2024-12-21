@@ -39,10 +39,11 @@ seccomp_loead(local_20);
     Stripped:   No
 ```
 <p align="center">
-<img src=https://tokyoking.github.io/assets/gifs/notgoodnotgood.gif>
+    
+![yay](https://tokyoking.github.io/assets/gifs/notgoodnotgood.gif)
 </p>
 
-<img src=https://tokyoking.github.io/assets/gifs/notgoodnotgood.gif>
+
 
 ![yay](https://tokyoking.github.io/assets/gifs/notgoodnotgood.gif)
 
