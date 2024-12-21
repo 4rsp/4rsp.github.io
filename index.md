@@ -15,31 +15,28 @@ Learning by reading other's writeups and practising with my own words. This is w
 
 ### Heap Related
 ##### Glibc 2.35
-*  [getting leaks via UAF to perform house of botcake attack into FSOP on stdout to leak a stack addr then ROP to fgets() stackframe](../../../../../ctfwriteups/tree/main/heap/otherbins/ImaginaryCTF23/mailman/README.md)
+*  [getting leaks via UAF to perform house of botcake attack into FSOP on stdout to leak a stack addr then ROP to fgets() stackframe](../../../../../ctfwriteups/heap/otherbins/ImaginaryCTF23/mailman/README.md)
   
 ##### Glibc 2.31
-*   [fake chunk into overwriting got entries to get a leak](../../../../../ctfwriteups/tree/main/heap/tcache/BACKDOOR23/Konsolidator)
-*   [fastbin dup attack into free_hook overwrite](../../../../../ctfwriteups/tree/main/heap/otherbins/JUSTCTF22/pwn_notes/)   
+*   [fake chunk into overwriting got entries to get a leak](../../../../../ctfwriteups/heap/tcache/BACKDOOR23/Konsolidator/README.md)
+*   [fastbin dup attack into free_hook overwrite](../../../../../ctfwriteups/heap/otherbins/JUSTCTF22/pwn_notes/README.md)   
     
 ##### Glibc 2.29
-*   [house of force attack into overwriting malloc hook](../../../../../ctfwriteups/tree/main/heap/otherbins/SUNSHINECTF23/House_of_Sus)
+*   [house of force attack into overwriting malloc hook](../../../../../ctfwriteups/heap/otherbins/SUNSHINECTF23/House_of_Sus/README.md)
 
 ### Format String Exploits
-*   [write ROP to saved rip of main](../../../../../ctfwriteups/tree/main/format_string/BACKDOOR23/Baby_formatter)
-*   [overwrite the key to pass a check](../../../../../ctfwriteups/tree/main/format_string/BlueHensCTF24/)
+*   [write ROP to saved rip of main](../../../../../ctfwriteups/format_string/BACKDOOR23/Baby_formatter/README.md)
+*   [overwrite the key to pass a check](../../../../../ctfwriteups/format_string/BlueHensCTF24/README.md)
   
 ### Shellcoding
-*   [calling mprotect() into self modifying shellcode](../../../../../ctfwriteups/tree/main/shellcode/HKCERTCTF24/shellcode_runner3/)
-*   [getting a leak from not cleared fs_base register into calling one_gaget](../../../../../ctfwriteups/tree/main/shellcode/HKCERTCTF24/shellcode_runner3(revenge)/)
+*   [calling mprotect() into self modifying shellcode](../../../../../ctfwriteups/shellcode/HKCERTCTF24/shellcode_runner3/README.md)
+*   [getting a leak from not cleared fs_base register into calling one_gaget](../../../../../ctfwriteups/shellcode/HKCERTCTF24/shellcode_runner3(revenge)/README.md)
   
 ### Buffer overflow
 *   [Brute-forcing a fork() process into leaking canary](/ctfwriteups/buffer_overflow/UTCCTF24/README.md)
 
 * * *
 
-# Trophies
-
-> nothing... *yet*
 
 ### Small image
 
@@ -52,5 +49,5 @@ Learning by reading other's writeups and practising with my own words. This is w
 
 
 ```
-The final element.
+whoami
 ```
