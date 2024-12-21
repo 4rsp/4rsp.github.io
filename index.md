@@ -2,12 +2,13 @@
 layout: default
 ---
 
-###### newbie pwner >.>
+###### newbie pwner ^-^
 
 # CTF Writeups
 
 > SOON^^
-
+>
+>> discord (.tokyoking) 
 
 # Others
 
