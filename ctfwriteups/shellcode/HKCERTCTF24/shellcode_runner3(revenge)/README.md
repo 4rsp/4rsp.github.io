@@ -34,7 +34,7 @@ We have 3 options here, last `execve` call looks like the easiest to do. It has 
 
 And we have a shell! (note: the remote server uses a different version of libc. we were given a dockerfile and we can use it to find out the libc used in the remote server.)
 
-![yay](https://tokyoking.github.io/assets/gifs/proud.gif)
+    ![yay](https://tokyoking.github.io/assets/gifs/proud.gif)
 
 
 
