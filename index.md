@@ -11,7 +11,7 @@ layout: default
 
 # Others
 
-Learning by reading other's writeups and practising with my own words. This is where I take someone's writeup and study it. 
+Learning by reading other's writeups and practising with my own words. This is where I take a random interesting challenge with a decent writeup and study it. 
 
 ### Heap Related
 ##### Glibc 2.35
