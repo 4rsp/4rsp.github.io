@@ -1,4 +1,4 @@
-## Level: Hard
+## Level: Medium+
 
 ### Challenge
 
