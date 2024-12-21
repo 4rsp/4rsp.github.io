@@ -33,7 +33,7 @@ Learning by reading other's writeups and practising with my own words. This is w
 *   [getting a leak from not cleared fs_base register into calling one_gaget](../../../../../ctfwriteups/tree/main/shellcode/HKCERTCTF24/shellcode_runner3(revenge)/)
   
 ### Buffer overflow
-*   [Brute-forcing a fork() process into leaking canary](../../../../../ctfwriteups/tree/main/buffer_overflow/UTCCTF24)
+*   [Brute-forcing a fork() process into leaking canary](/ctfwriteups/buffer_overflow/UTCCTF24/README.md)
 
 * * *
 
