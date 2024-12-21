@@ -46,8 +46,7 @@ Learning by reading other's writeups and practising with my own words. This is w
 
 ### Large image
 
-![](https://github.com/tokyoking/tokyoking.github.io/blob/main/assets/images/tokyoking.png)
-
+![yo](https://tokyoking.github.io/assets/images/tokyoking.png)
 
 
 ```
