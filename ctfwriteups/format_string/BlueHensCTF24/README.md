@@ -83,7 +83,9 @@ And we succesfully overwrite it with "0"! Therefore passed the check!
 
 
 ![yay](https://tokyoking.github.io/assets/gifs/pretyyeasy.gif)
-                                      Pretty easy.
+<p align="center">
+Pretty easy.
+</p>
 
 
 
