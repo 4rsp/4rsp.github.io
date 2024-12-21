@@ -38,12 +38,6 @@ seccomp_loead(local_20);
     IBT:        Enabled
     Stripped:   No
 ```
-<p align="center">
-    
-![yay](https://tokyoking.github.io/assets/gifs/notgoodnotgood.gif)
-</p>
-
-
 
 ![yay](https://tokyoking.github.io/assets/gifs/notgoodnotgood.gif)
 
