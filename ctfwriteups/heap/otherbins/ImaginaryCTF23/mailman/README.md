@@ -39,7 +39,7 @@ seccomp_loead(local_20);
     Stripped:   No
 ```
 <p align="center">
-[!notgood](https://tokyoking.github.io/assets/gifs/notgoodnotgood.gif)
+<img src=https://tokyoking.github.io/assets/gifs/notgoodnotgood.gif>
 </p>
 
 So we can't overwrite got entries due to Full RELRO, can't use one_gadgets and other tricks like system("/bin/sh") due to seccomp restrictions. However ORW syscall are allowed, we can write out the flag if we can get a stack leak and ROP from there.. Also one more thing to consider, safe-linking is enabled but shouldn't be a big deal. 
