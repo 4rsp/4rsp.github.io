@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 ###### newbie pwner >.>
 
 # CTF Writeups
@@ -11,7 +12,6 @@ layout: default
 # Others
 
 Learning by reading other's writeups and practising with my own words. This is where I take someone's writeup and study it. 
-
 
 ### Heap Related
 ##### Glibc 2.35
