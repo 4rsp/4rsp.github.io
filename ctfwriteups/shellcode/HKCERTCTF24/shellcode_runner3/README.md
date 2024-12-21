@@ -80,8 +80,9 @@ Before we leave, you can `gcc -nostdlib -static shellcode.s -o shellcode-elf` to
 
 ![flag](https://github.com/user-attachments/assets/3167bf08-b16b-4006-9121-409b65b28a73)
 
+![yay](https://tokyoking.github.io/assets/gifs/gotshell.gif)
+
 <p align="center">
-<img src="https://i.pinimg.com/originals/5d/87/fa/5d87fac506f1a616f64038461e18dc42.gif"/>
 <br>and we got a shell!</br>
 </p>
 
