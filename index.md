@@ -3,8 +3,6 @@ layout: default
 ---
 
 
-###### newbie pwner ^-^
-
 # CTF Writeups
 
 > SOON^^
@@ -12,7 +10,7 @@ layout: default
 >> discord (.tokyoking) 
 
 # Others
-
+##### newbie pwner ^-^
 Learning by reading other's writeups and practicing with my own words. This is where I take a random interesting challenge with a decent writeup and study it. 
 
 ### Heap Related
