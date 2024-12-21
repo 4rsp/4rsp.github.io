@@ -142,5 +142,5 @@ emergency_meeting(binsh, payload, 1)
 p.interactive()
 ```
 <p align="center">
-![Easy](https://media1.tenor.com/m/-POqhuRZuEUAAAAd/easy-mode-shinoa-shinoa.gif)
+<img src=https://media1.tenor.com/m/-POqhuRZuEUAAAAd/easy-mode-shinoa-shinoa.gif>
 </p>
