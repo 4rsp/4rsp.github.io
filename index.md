@@ -35,34 +35,7 @@ Learning by reading other's writeups and practising with my own words. This is w
 ### Buffer overflow
 *   [Brute-forcing a fork() process into leaking canary](../../../../../tokyoking/ctf/tree/main/buffer_overflow/UTCCTF24)
 
-
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
 
 ### Small image
 
@@ -85,10 +58,6 @@ Learning by reading other's writeups and practising with my own words. This is w
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.
