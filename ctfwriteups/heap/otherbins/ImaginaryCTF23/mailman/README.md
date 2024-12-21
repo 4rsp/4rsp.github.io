@@ -2,9 +2,9 @@
 
 ### Challenge
 
-```
+
 TLDR: leak a mangled heap ptr (UAF) and libc address from unsorted bin, then perform a House of Botcake attack to get read-what-where. Use this to get a stack leak via FSOP on stdout. Perform House of Botcake again to ROP from saved_rip of fgets(). Use the gadgets in libc to write out the flag to stdout with ORW syscalls.
-```
+
 ```
 Welcome to the post office.
 Enter your choice below:
@@ -38,9 +38,9 @@ seccomp_loead(local_20);
     IBT:        Enabled
     Stripped:   No
 ```
-<p align="center">
+
 <img src=https://i.gifer.com/8lTm.gif>
-</p>
+
 So we can't overwrite got entries due to Full RELRO, can't use one_gadgets and other tricks like system("/bin/sh") due to seccomp restrictions. However ORW syscall are allowed, we can write out the flag if we can get a stack leak and ROP from there.. Also one more thing to consider, safe-linking is enabled but shouldn't be a big deal. 
 
 ### Safe-Linking
