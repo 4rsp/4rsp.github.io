@@ -46,15 +46,15 @@ Also there is an overflow in option 3 so we can create a chunk then overwrite th
 
 Calculating the offset for distance was quite painful until I get the hang of it. As always, following sources helped me understand this **House of Force** technique and eventually solve the challenge:
 
-House of force: https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/#house-of-force
+[House of force](https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/#house-of-force)
 
-More about the house: https://book.hacktricks.xyz/binary-exploitation/libc-heap/house-of-force
+[More about house of force](https://book.hacktricks.xyz/binary-exploitation/libc-heap/house-of-force)
 
-c0nrad's writeup: https://youtu.be/qA6ajf7qZtQ?t=2277
+[c0nrad's writeup](https://youtu.be/qA6ajf7qZtQ?t=2277)
 
-offical(i guess) write up: https://github.com/SunshineCTF/SunshineCTF-2023-Public/blob/main/Pwn/House_of_Sus/house_of_sus_exp.py
+[offical(?) write up](https://github.com/SunshineCTF/SunshineCTF-2023-Public/blob/main/Pwn/House_of_Sus/house_of_sus_exp.py)
 
-get the challenge from: https://github.com/SunshineCTF/SunshineCTF-2023-Public/tree/main/Pwn/House_of_Sus
+[challenge binary](https://github.com/SunshineCTF/SunshineCTF-2023-Public/tree/main/Pwn/House_of_Sus)
 
 Thank you to all of them and the author for this cool challenge!
 
