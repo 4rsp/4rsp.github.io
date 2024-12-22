@@ -84,13 +84,13 @@ All good.
 
 Thanks to the author for this cool challenge! As always, following sources helped me a lot through this:
 
-nobodyisnobody's write up: ![](https://github.com/nobodyisnobody/write-ups/blob/main/justCTF.2022/pwn/notes/working.exploit.py)
+[nobodyisnobody's write up](https://github.com/nobodyisnobody/write-ups/blob/main/justCTF.2022/pwn/notes/working.exploit.py)
 
-double free on fastbin: ![](https://book.hacktricks.xyz/binary-exploitation/libc-heap/double-free)
+[double free on fastbin](https://book.hacktricks.xyz/binary-exploitation/libc-heap/double-free)
 
-malloc hooks: ![](https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/#malloc-hooks)
+[malloc hooks](https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/#malloc-hooks)
 
-get the challenge from ![](https://github.com/justcatthefish/justctf-2022/tree/main/challenges/pwn_notes)
+[challenge offical repo](https://github.com/justcatthefish/justctf-2022/tree/main/challenges/pwn_notes)
 
 ### Full Exploit
 ```python
