@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![yo](https://tokyoking.github.io/assets/images/test6.png)
+![yo](https://tokyoking.github.io/assets/images/test8.png)
 
 # CTF Writeups
 
@@ -38,5 +38,5 @@ Learning by reading other's writeups and practicing with my own words. This is w
 
 * * * 
 
-![yo](https://tokyoking.github.io/assets/images/test5.png)
+![yo](https://tokyoking.github.io/assets/images/test7.png)
 
