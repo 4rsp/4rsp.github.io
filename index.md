@@ -14,6 +14,10 @@ layout: default
 ###### newbie pwner ^-^
 Learning by reading other's writeups and practicing with my own words. This is where I take random interesting pwn related challenges with a decent writeup and study it. 
 
+![yo](https://tokyoking.github.io/assets/images/linux-22668.png)
+![yo](https://tokyoking.github.io/assets/images/linux-22649.png)
+
+
 ## Heap Related
 ### Glibc 2.35
 *  [getting leaks via UAF to perform house of botcake attack into FSOP on stdout to leak a stack addr then ROP to fgets() stackframe](/ctfwriteups/heap/otherbins/ImaginaryCTF23/mailman/README.md)
