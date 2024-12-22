@@ -1,8 +1,8 @@
 ---
 layout: default
-![yo](https://tokyoking.github.io/assets/images/test5.png)
+
 ---
-![yo](https://tokyoking.github.io/assets/images/test8.png)
+![yo](https://tokyoking.github.io/assets/images/test5.png)
 
 # CTF Writeups
 
