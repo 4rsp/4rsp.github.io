@@ -14,9 +14,7 @@ layout: default
 ###### newbie pwner ^-^
 Learning by reading other's writeups and practicing with my own words. This is where I take random interesting pwn related challenges with a decent writeup and study it. 
 
-![yo](https://tokyoking.github.io/assets/images/linux-22668.png)
-
-<img src="/assets/images/linux-22668.png">
+<img src="/assets/images/linux-22668.png" width="10%">
 
 ## Heap Related
 ### Glibc 2.35
