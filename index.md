@@ -16,7 +16,7 @@ Learning by reading other's writeups and practicing with my own words. This is w
 
 ![yo](https://tokyoking.github.io/assets/images/linux-22668.png)
 
-<img src=/assets/images/linux-22668.png>
+<img src="/assets/images/linux-22668.png">
 
 ## Heap Related
 ### Glibc 2.35
