@@ -2,13 +2,15 @@
 layout: default
 
 ---
+
 ![yo](https://4rsp.github.io/assets/images/test5.png)
+>> discord (.4rsp) 
 
 # CTF Writeups
 
 > SOON^^
 >
->> discord (.4rsp) 
+
 
 # Study Notes
 ###### newbie pwner ^-^
