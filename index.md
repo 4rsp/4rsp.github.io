@@ -2,13 +2,13 @@
 layout: default
 
 ---
-![yo](https://tokyoking.github.io/assets/images/test5.png)
+![yo](https://4rsp.github.io/assets/images/test5.png)
 
 # CTF Writeups
 
 > SOON^^
 >
->> discord (.tokyoking) 
+>> discord (.4rsp) 
 
 # Others
 ###### newbie pwner ^-^
@@ -41,5 +41,5 @@ Learning by reading other's writeups and practicing with my own words. This is w
 
 * * * 
 
-![yo](https://tokyoking.github.io/assets/images/test1.png)
+![yo](https://4rsp.github.io/assets/images/test1.png)
 
