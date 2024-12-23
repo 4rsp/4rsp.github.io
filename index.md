@@ -10,7 +10,7 @@ layout: default
 >
 >> discord (.4rsp) 
 
-# Others
+# Study Notes
 ###### newbie pwner ^-^
 Learning by reading other's writeups and practicing with my own words. This is where I take random interesting pwn related challenges with a decent writeup and study it. 
 
