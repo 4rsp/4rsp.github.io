@@ -16,6 +16,11 @@ layout: default
 ###### newbie pwner ^-^
 Learning by reading other's writeups and practicing with my own words. This is where I take random interesting pwn related challenges with a decent writeup and study it. 
 
+[ctftime archive](https://ctftime.org/writeups)
+
+[ctftime pwn challenges in a list (not up to date)](https://github.com/ke0z/ctftime_pwn)
+
+
 <img src="/assets/images/linux-22668.png" width="10%">
 
 ## Heap Related
