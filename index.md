@@ -4,7 +4,7 @@ layout: default
 ---
 
 ![yo](https://4rsp.github.io/assets/images/test5.png)
->>> discord (.4rsp) 
+###### discord (.4rsp) 
 
 # CTF Writeups
 
