@@ -18,8 +18,6 @@ Learning by reading other's writeups and practicing with my own words. This is w
 
 [ctftime archive](https://ctftime.org/writeups)
 
-[ctftime pwn challenges in a list (not up to date)](https://github.com/ke0z/ctftime_pwn)
-
 
 <img src="/assets/images/linux-22668.png" width="10%">
 
