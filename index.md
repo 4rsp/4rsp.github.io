@@ -21,7 +21,7 @@ Learning by reading other's writeups and practicing with my own words. This is w
 
 <img src="/assets/images/linux-22668.png" width="10%">
 
-## Heap Related
+## Dynamic Allocator Exploits
 ### Glibc 2.35
 *  [getting leaks via UAF to perform house of botcake attack into FSOP on stdout to leak a stack addr then ROP to fgets() stackframe](/ctfwriteups/heap/otherbins/ImaginaryCTF23/mailman/README.md)
   
